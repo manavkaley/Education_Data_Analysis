@@ -1,7 +1,5 @@
 # Education_Data_analysis_Project
 
-# Student Performance Data Analysis
-
 ## Project Overview
 This project analyzes student academic performance using Python and data visualization techniques.
 
